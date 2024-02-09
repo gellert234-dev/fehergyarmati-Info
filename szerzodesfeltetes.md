@@ -35,4 +35,4 @@ This policy is effective as of 2024-02-09
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at pitsoft2000@gmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at gyarmatonline.cisco2@gmail.com.

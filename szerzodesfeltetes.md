@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Tóth Péter built the Fehérgyarmati Info app as a Free app. This SERVICE is provided by Tóth Péter at no cost and is intended for use as is.
+Humanbit built the Fehérgyarmati Info app as a Free app. This SERVICE is provided by Tóth Péter at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -35,4 +35,4 @@ This policy is effective as of 2024-02-09
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at gyarmatonline.cisco2@gmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at humanbit.hu@gmail.com.
